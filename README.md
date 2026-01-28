@@ -1,7 +1,9 @@
 Password Complexity Checker
+
 GUI tool to check how strong your passwords are with real-time feedback.
 
 ✨ Features
+
 ✅ Real-time analysis as you type
 
 ✅ Score system (0-10 scale)
@@ -15,7 +17,9 @@ GUI tool to check how strong your passwords are with real-time feedback.
 ✅ Detailed feedback with suggestions
 
 🚀 Quick Start
+
 bash
+
 # Clone and run
 git clone https://github.com/yzd2/PRODIGY_CS_03
 python checker.py
