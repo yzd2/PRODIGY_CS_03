@@ -18,12 +18,14 @@ GUI tool to check how strong your passwords are with real-time feedback.
 
 🚀 Quick Start
 
-bash
 
-# Clone and run
+```
 git clone https://github.com/yzd2/PRODIGY_CS_03
+
 python checker.py
+```
 📖 How It Works
+
 Enter a password in the text field
 
 See strength level (Very Weak → Very Strong)
